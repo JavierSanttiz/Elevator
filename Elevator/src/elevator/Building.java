@@ -20,6 +20,7 @@ public class Building {
     List<Floor> floors;
     List<Person> persons;
     Thread elevatorThread;
+    int tre;
     
     /**
      * Create the building.
